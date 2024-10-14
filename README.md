@@ -1,4 +1,4 @@
-# Library - C++ 🚕🚦🚖
+# Library - C++ 📚 📖
 **This is the second part of my final project for the C++ course, completed at Afka College.**
 
 **To the first part :**  [README.md](https://github.com/orikatz99/Taxi_Company-/blob/main/README.md)
