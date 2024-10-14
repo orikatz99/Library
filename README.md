@@ -3,7 +3,7 @@
 
 **To the first part :**  [README.md](https://github.com/orikatz99/Taxi_Company-/blob/main/README.md)
 
-**To the third part :**  [README.md](https://github.com/orikatz99/Taxi_Company-/blob/main/README.md)
+**To the third part :**  [README.md](https://github.com/orikatz99/Final-Library/blob/main/README.md)
 
 In this part, we were required to choose a project that someone else had written (the first part of someone else's project) and fully implement it.  
 We chose "Library Management."
