@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\שולחן העבודה\software ingeneering\year3 semester2\C++\Library\Library\x64\Debug\Library.exe
+C:\Users\orika\Downloads\Library (7)\Library\x64\Debug\Library.exe
+C:\Users\User\OneDrive\שולחן העבודה\software ingeneering\year3 semester2\C++\OriLibrary\x64\Debug\Library.exe
+C:\Users\orika\Downloads\Library (10)\OriLibrary\x64\Debug\Library.exe
+C:\Users\orika\Desktop\לימודים\שנה ב סמסטר ב\++c\חלק 2\Library_Peleg_Asraf__Ori_Katz\x64\Debug\Library.exe

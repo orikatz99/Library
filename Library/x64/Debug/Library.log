@@ -1,0 +1,15 @@
+﻿  Administrator.cpp
+  Book.cpp
+  Date.cpp
+  Ebook.cpp
+  Employee.cpp
+  Library.cpp
+  Loan.cpp
+  main.cpp
+  Member.cpp
+  MemberEmployee.cpp
+  Notebook.cpp
+  PhysicalBook.cpp
+  Generating Code...
+  LINK : C:\Users\orika\Desktop\לימודים\שנה ב סמסטר ב\++c\חלק 2\Library_Peleg_Asraf__Ori_Katz\x64\Debug\Library.exe not found or not built by the last incremental link; performing full link
+  Library.vcxproj -> C:\Users\orika\Desktop\לימודים\שנה ב סמסטר ב\++c\חלק 2\Library_Peleg_Asraf__Ori_Katz\x64\Debug\Library.exe
